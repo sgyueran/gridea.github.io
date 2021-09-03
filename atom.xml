@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yueqq.top</id>
     <title>Yue</title>
-    <updated>2021-09-03T04:45:48.597Z</updated>
+    <updated>2021-09-03T04:50:27.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.yueqq.top"/>
     <link rel="self" href="https://www.yueqq.top/atom.xml"/>
@@ -16,7 +16,14 @@
         <link href="https://www.yueqq.top/Genshin/">
         </link>
         <updated>2021-09-03T04:41:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>会缓慢更新所以已知且基本确定的角色与武器</p>
+]]></summary>
         <content type="html"><![CDATA[<p>会缓慢更新所以已知且基本确定的角色与武器</p>
+<!-- more -->
+<p>武器</p>
+<!-- more -->
+<p><img src="https://www.yueqq.top/post-images/1630644498179.png" alt="" loading="lazy"><br>
+已知新甘雨专武&lt;冬极白星&gt; 说是甘雨专武 实际上几乎可以适配已出场的所有弓角色</p>
 ]]></content>
     </entry>
 </feed>
